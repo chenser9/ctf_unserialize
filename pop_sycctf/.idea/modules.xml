@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pop_nssctf_prize/.idea/pop_nssctf_prize.iml" filepath="$PROJECT_DIR$/../pop_nssctf_prize/.idea/pop_nssctf_prize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pop_sycctf.iml" filepath="$PROJECT_DIR$/.idea/pop_sycctf.iml" />
+    </modules>
+  </component>
+</project>

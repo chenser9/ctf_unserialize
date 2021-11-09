@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="qwb2020_web辅助" />
+    <orderEntry type="module" module-name="ddctf2020_Overwrite_Me" />
+    <orderEntry type="module" module-name="ctfshow_web入门_web259" />
+    <orderEntry type="module" module-name="MRCTF_ezpop" />
+    <orderEntry type="module" module-name="ctfshow_web入门_web262" />
+    <orderEntry type="module" module-name="qwb2021_赌徒" />
+    <orderEntry type="module" module-name="安洵杯2019_easy_serialize_php" />
+    <orderEntry type="module" module-name="ctfshow_web入门_web263" />
+    <orderEntry type="module" module-name="session_unserialize_exercise" />
+  </component>
+</module>
